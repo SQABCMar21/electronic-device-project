@@ -1,8 +1,8 @@
-#### Basic Project
+#### Electron Devices Project
 
-### March 26, 2016
+### April 9, 2016
 
-A Basic Structure for Maven Projects
+A example of class hierarchy for an electronic device structure
 
 * Git
 * Java 7
